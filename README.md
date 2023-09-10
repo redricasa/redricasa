@@ -13,6 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redricasa)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/redricasa)   -->
-![Profile views](https://gpvc.arturio.dev/redricasa)  
 
