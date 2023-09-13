@@ -15,13 +15,10 @@
   - DBMS: MySQL
 
 🪜 Steps taken to build out a full stack application:
- 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
- 2. Which is numbered
-    1. Determine the front-end , API and DMBS tools to be used
-    2. Figure out what entity(ies) along with their attributes to build out
-    3. Build table(s) in MySQL Workbench that shows the columns/attributes and data types (along with the relationship type if there's multiple tables)
+
+    1️⃣ Determine the front-end , API and DMBS tools to be used
+    2️⃣ Figure out what entity(ies) along with their attributes to build out
+    3️⃣ Build table(s) in MySQL Workbench that shows the columns/attributes and data types (along with the relationship type if there's multiple tables)
  
 🌱 I’m currently learning:
  - Data structures and algorithms thru Karat^ [Brilliant Black Minds program](https://central.karat.io/users/sign_in?bbm=true&_ga=2.140232059.938155976.1685156593-1002762848.1674590087&&__hstc=264156438.48bf26c9c669a01f3077197121708552.1685156890106.1685156890106.1685159591289.2&__hssc=264156438.1.1685159591289&__hsfp=3742987867&hsutk=48bf26c9c669a01f3077197121708552&contentType=landing-page&_gl=1*1hcpud0*_gcl_au*MTM5ODAwNjI3OC4xNjg1MTU2NTkz) 
